@@ -11,4 +11,4 @@ Wait until django installs. And it would be successfully installed.
 ### Run the File
 Open your Terminal/Command Prompt/Windows Powershell on location of file "manage.py" in script. Type:
 #### <code>python manage.py runserver</code>
-After that website would start running on your local server. Open http:127.0.0.1:8000 on your browser to access the website.
+After that website would start running on your local server. Open <a href="http:127.0.0.1:8000">http:127.0.0.1:8000</a> on your browser to access the website.
