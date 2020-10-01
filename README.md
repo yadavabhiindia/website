@@ -6,7 +6,7 @@ You should have installed Python on your System. If not please install it from h
 During Installation in Windows, check "Add Python to Path" this menu to use pip and python from any location on your Windows.
 ### Install Django using pip
 Now Open your Terminal/Command Prompt/Windows Powershell. Type:
-##### <code>pip install django</code>
+#### <code>pip install django</code>
 Wait until django installs. And it would be successfully installed.
 ### Run the File
 Open your Terminal/Command Prompt/Windows Powershell on location of file "manage.py" in script. Type:
